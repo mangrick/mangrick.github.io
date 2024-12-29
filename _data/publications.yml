@@ -1,22 +1,145 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: A click-based electrocorticographic brain-computer interface enables long-term high-performance switch scan spelling
+    authors: Daniel N. Candrea, Samyak Shah, Shiyu Luo, <strong>Miguel Angrick</strong>, Qinwan Rabbani, Christopher Coogan, Griffin W. Milsap, Kevin C. Nathan, Brock A. Wester, William S. Anderson, Kathryn R. Rosenblatt, Alpa Uchil, Lora Clawson, Nicholas J. Maragakis, Mariska J. Vansteensel, Francesco V. Tenore, Nicolas F. Ramsey, Matthew S. Fifer & Nathan E. Crone
+    conference_short: Commun. Med.
+    conference: Nature Communications Medicine, 2024.
+    page: https://www.nature.com/articles/s43856-024-00635-3
+    pdf: https://www.nature.com/articles/s43856-024-00635-3.pdf
+    image: ./assets/img/candrea2024a.png
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Real-time detection of spoken speech from unlabeled ECoG signals: A pilot study with an ALS participant"
+    authors: <strong>Miguel Angrick</strong>, Shiyu Luo, Qinwan Rabbani, Shreya Joshi, Daniel N. Candrea, Griffin W. Milsap, Chad R. Gordon, Kathryn Rosenblatt, Lora Clawson, Nicholas Maragakis, Francesco V. Tenore, Matthew S. Fifer, Nick F. Ramsey & Nathan E. Crone
+    conference_short: medRxiv
+    conference: medRxiv, 2024
+    page: https://www.medrxiv.org/content/10.1101/2024.09.18.24313755v1
+    pdf: https://www.medrxiv.org/content/10.1101/2024.09.18.24313755v1.full.pdf
+    image: ./assets/img/angrick2024real.png
+    poster: ./assets/poster/SfN_2024.pdf
+    notes: Preprint
+
+  - title: "Online speech synthesis using a chronically implanted brain-computer interface in an individual with ALS"
+    authors: <strong>Miguel Angrick</strong>, Shiyu Luo, Qinwan Rabbani, Daniel N. Candrea, Samyak Shah, Griffin W. Milsap, William S. Anderson, Chad R. Gordon, Kathryn R. Rosenblatt, Lora Clawson, Donna C. Tippett, Nicholas Maragakis, Francesco V. Tenore, Matthew S. Fifer, Hynek Hermansky, Nick F. Ramsey & Nathan E. Crone
+    conference_short: Sci. Rep.
+    conference: Nature Scientific Reports, 2024
+    page: https://www.nature.com/articles/s41598-024-60277-2
+    pdf: https://www.nature.com/articles/s41598-024-60277-2.pdf
+    code: https://github.com/cronelab/delayed-speech-synthesis
+    poster: ./assets/poster/SfN2023.pdf
+    image: ./assets/img/angrick2024online.png
+
+  - title: "Stable Decoding from a Speech BCI Enables Control for an Individual with ALS without Recalibration for 3 Months"
+    authors: Shiyu Luo, <strong>Miguel Angrick</strong>, Christopher Coogan, Daniel N. Candrea, Kimberley Wyse-Sookoo, Samyak Shah, Qinwan Rabbani, Griffin W. Milsap, Alexander R. Weiss, William S. Anderson, Donna C. Tippett, Nicholas J. Maragakis, Lora L. Clawson, Mariska J. Vansteensel, Brock A. Wester, Francesco V. Tenore, Hynek Hermansky, Matthew S. Fifer, Nick F. Ramsey & Nathan E. Crone
+    conference_short: "Adv. Sci."
+    conference: Advanced Science, 2023
+    page: https://onlinelibrary.wiley.com/doi/10.1002/advs.202304853
+    pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202304853
+    image: ./assets/img/luo2023stable.png
+
+  - title: "Synthesizing Speech from Intracranial Depth Electrodes using an Encoder-Decoder Framework"
+    authors: Jonas Kohler, Maarten C. Ottenhoff, Sophocles Goulis, <strong>Miguel Angrick</strong>, Albert J. Colon, Louis Wagner, Simon Tousseyn, Pieter L. Kubben & Christian Herff
+    conference_short: NBDT
+    conference: Neurons, Behavior, Data analysis, and Theory, 2022
+    page: https://nbdt.scholasticahq.com/article/57524-synthesizing-speech-from-intracranial-depth-electrodes-using-an-encoder-decoder-framework
+    pdf: https://arxiv.org/pdf/2111.01457
+    code: https://github.com/jonaskohler/stereoEEG2speech
+    image: ./assets/img/kohler2022synthesizing.png
+
+  - title: "Towards Closed-Loop Speech Synthesis from Stereotactic EEG: A Unit Selection Approach"
+    authors: <strong>Miguel Angrick</strong>, Maarten Ottenhoff, Lorenz Diener, Darius Ivucic, Gabriel Ivucic, Sophocles Goulis, Albert J. Colon, Louis Wagner, Dean J. Krusienski, Pieter L. Kubben, Tanja Schultz & Christian Herff 
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing, 2022
+    page: https://ieeexplore.ieee.org/document/9747300
+    pdf: https://par.nsf.gov/servlets/purl/10386588
+    image: ./assets/img/angrick2022towards.png
+    poster: ./assets/poster/angrick2021speech.pdf
+
+  - title: "Speech Synthesis from Stereotactic EEG using an Electrode Shaft Dependent Multi-Input Convolutional Neural Network Approach"
+    authors: <strong>Miguel Angrick</strong>, Maarten Ottenhoff, Sophocles Goulis, Albert J. Colon, Louis Wagner, Dean J. Krusienski, Pieter L. Kubben, Tanja Schultz & Christian Herff
+    conference_short: EMBC
+    conference: IEEE 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2021
+    page: https://ieeexplore.ieee.org/document/9629711
+    pdf: https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/93928982/Herff_2021_Speech_Synthesis_from_Stereotactic_EEG.pdf
+    image: ./assets/img/angrick2021speech.png
+
+  - title: "Speech Activity Detection from Stereotactic EEG"
+    authors: Pedram Z. Soroush, <strong>Miguel Angrick</strong>, Jerry Shih, Tanja Schultz & Dean J. Krusienski
+    conference_short: SMC
+    conference: IEEE International Conference on Systems, Man, and Cybernetics, 2021
+    page: https://ieeexplore.ieee.org/document/9659058
+    pdf: https://par.nsf.gov/servlets/purl/10386592
+    image: ./assets/img/soroush2021speech.png
+
+  - title: "Real-time synthesis of imagined speech processes from minimally invasive recordings of neural activity"
+    authors: <strong>Miguel Angrick</strong>, Maarten C. Ottenhoff, Lorenz Diener, Darius Ivucic, Gabriel Ivucic, Sophocles Goulis, Jeremy Saal, Albert J. Colon, Louis Wagner, Dean J. Krusienski, Pieter L. Kubben, Tanja Schultz & Christian Herff
+    conference_short: Commun. Biol.
+    conference: Nature Commuications Biology, 2021
+    page: https://www.nature.com/articles/s42003-021-02578-0
+    pdf: https://www.nature.com/articles/s42003-021-02578-0.pdf
+    code: https://github.com/cognitive-systems-lab/closed-loop-seeg-speech-synthesis
+    image: ./assets/img/angrick2021real.png
+
+  - title: "Speech Spectrogram Estimation from Intracranial Brain Activity Using a Quantization Approach"
+    authors: <strong>Miguel Angrick</strong>, Christian Herff, Garett Johnson, Jerry Shih, Dean Krusienski & Tanja Schultz
+    conference_short: Interspeech
+    conference: Interspeech, 2020
+    page: https://www.isca-archive.org/interspeech_2020/angrick20_interspeech.html
+    pdf: http://www.interspeech2020.org/uploadfile/pdf/Wed-SS-2-7-4.pdf
+    image: ./assets/img/angrick2020speech.png
+
+  - title: "Generating Natural, Intelligible Speech From Brain Activity in Motor, Premotor, and Inferior Frontal Cortices"
+    authors: Christian Herff, Lorenz Diener, <strong>Miguel Angrick</strong>, Emily Mugler, Matthew C. Tate, Matthew A. Goldrick, Dean J. Krusienski, Marc W. Slutzky & Tanja Schultz
+    conference_short: Front. Neurosci.
+    conference: Frontiers in Neuroscience, 2019
+    page: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01267/full
+    pdf: https://www.frontiersin.org/articles/10.3389/fnins.2019.01267/pdf
+    image: ./assets/img/herff2019generating.png
+
+  - title: "Towards Restoration of Articulatory Movements: Functional Electrical Stimulation of Orofacial Muscles"
+    authors: Tanja Schultz, <strong>Miguel Angrick</strong>, Lorenz Diener, Dennis Kuster, Moritz Meier, Dean J. Krusienski, Christian Herff & Jonathan S. Brumberg
+    conference_short: EMBC
+    conference: 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2019
+    page: https://ieeexplore.ieee.org/document/8857670
+    pdf: https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/93722895/Herff_2019_Towards_restoration_of_articulatory_movements.pdf
+    image: ./assets/img/schultz2019towards.png
+    poster: ./assets/poster/schultz2019towards.pdf
+
+  - title: "Speech synthesis from ECoG using densely connected 3D convolutional neural networks"
+    authors: <strong>Miguel Angrick</strong>, Christian Herff, Emily Mugler, Matthew C Tate, Marc W Slutzky, Dean J Krusienski & Tanja Schultz
+    conference_short: JNE
+    conference: Journal of Neural Engineering, 2019
+    page: https://iopscience.iop.org/article/10.1088/1741-2552/ab0c59
+    pdf: https://www.biorxiv.org/content/10.1101/478644v1.full.pdf
+    image: ./assets/img/angrick2019speech.png
+    poster: ./assets/poster/angrick2019speech.pdf
+    notes: PDF link points to preprint
+
+  - title: "Interpretation of convolutional neural networks for speech spectrogram regression from intracranial recordings"
+    authors: <strong>Miguel Angrick</strong>, Christian Herff, Garett Johnson, Jerry Shih, Dean Krusienski & Tanja Schultz
+    conference_short: NEUCOM
+    conference: Neurocomputing, 2019
+    page: https://www.sciencedirect.com/science/article/abs/pii/S092523121930133X
+    image: ./assets/img/angrick2019interpretation.png
+
+  - title: "Session-independent array-based EMG-to-speech conversion using convolutional neural networks"
+    authors: Lorenz Diener, Gerrit Felsch, <strong>Miguel Angrick</strong> & Tanja Schultz
+    conference_short: ITG
+    conference: 13th ITG-Symposium, Speech Communication, 2018 
+    pdf: https://www.csl.uni-bremen.de/cms/images/documents/publications/ITG2018_EMG_ConvNets.pdf
+    image: ./assets/img/diener2018session.png
+
+  - title: "Investigating the Effect of Audio Duration on Dementia Detection Using Acoustic Features"
+    authors: Jochen Weiner, <strong>Miguel Angrick</strong>, Srinivasan Umesh & Tanja Schultz
+    conference_short: Interspeech
+    conference: Interspeech 2018
+    pdf: https://www.isca-archive.org/interspeech_2018/weiner18_interspeech.pdf
+    page: https://www.isca-archive.org/interspeech_2018/weiner18_interspeech.html
+    image: ./assets/img/weiner2018interspeech.png
+
+  - title: "Interpretation of convolutional neural networks for speech regression from electrocorticography"
+    authors: <strong>Miguel Angrick</strong>, Christian Herff, Garett Johnson, Jerry Shih, Dean Krusienski & Tanja Schultz
+    conference_short: ESANN
+    conference: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 2018
+    pdf: https://www.esann.org/sites/default/files/proceedings/legacy/es2018-102.pdf
+    image: ./assets/img/angrick2018interpretation.png
