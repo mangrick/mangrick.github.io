@@ -11,12 +11,13 @@ I am a Ph.D. student at ...
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
+## Projects
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **CortiCom:** The primary goal of the CortiCom clinical trial is to evaluate the safety and efficacy of long-term electrode implantation for BCI control.  This entails clinical oversight and assessment of the long-term implantation of the electrodes and signal acquisition hardware, as well as the development, testing, and assessment of new BCI paradigms and control schemes to facilitate communication using the BCI. The two stated aims of CortiCom are: (1) Demonstrate efficient and stable control of essential BCI functions (e.g., initiate BCI, call caregiver, and BCI menu navigation), and (2) Demonstrate efficient and stable operation of a keyword-based speech BCI.
+
+- **ADSPEED:** In the „ADaptive Low-Latency SPEEch Decoding and synthesis using intracranial signals“ (ADSPEED) project, we tackle three of these challenges to advance the technology that has so far been developed for individuals with healthy speech production functions towards its intended target users (e.g. ALS patients). Here, the ADSPEED project focuses on synthetizing natural speech via systems that rely on captured neural processes of imagined speech. To accomplish this, the ADSPEED team will address the decoding of imagined speech in real-time to allow user and system to co-adapt via a continuous neurofeedback. Thus, fundamental challenges for a natural and practical communication device that generates audible speech from brain activity data in real-time will be studied. <br> In this regard, ADSPEED constitutes a German-US collaboration in the field of computational neuroscience and specifically addresses the following four research thrusts: (1) The training of synthesis techniques even when time-aligned data between neural activities and speech are not available. (2) The investigation of online synthesis methods based on previous work to decode imagined speech and enable user adaptation via a continuous auditory feedback. (2) The development of techniques regarding co-adaptation between user and system. (3) A proof-of-concept study of a neuroprosthesis based on imagined speech via a co-adaptive online synthesis system without time-aligned data for training.
+
+- **RESPONSE:** This project investigated the neural processes of spontaneous and imagined speech production using Electrocorticography (ECoG) which measures electrical activity directly from the brain surface and covers an area large enough to provide insights about widespread networks for speech production and understanding, while simultaneously providing localized information for decoding nuanced aspects of the underlying speech processes. In conjunction with in-depth analysis of the recorded neural signals, the researchers will apply customized ECoG-based automatic speech recognition (ASR) techniques to facilitate the analysis of the large amount of phones occurring in continuous speech. Ultimately, the project aims to define fundamental units of continuous speech production and understanding, illustrate functional differences between these units, and demonstrate that representations of spontaneous speech can be synthesized directly from the neural recordings.
 
 {% include_relative _includes/publications.md %}
 
