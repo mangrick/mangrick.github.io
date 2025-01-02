@@ -1,3 +1,6 @@
+url: https://mangrick.github.io
+baseurl: ""
+
 # Basic Information 
 title: Miguel Angrick
 position: Postdoctoral Researcher
@@ -8,7 +11,7 @@ affiliation: The Johns Hopkins University
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: machine learning deep learning ecog speech BCI
 description: Miguel Angrick's personal website.
-canonical: https://mangrick.github.io//
+canonical: https://mangrick.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
