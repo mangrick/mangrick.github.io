@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Projects
 
-Below, you can find an overview of the various research projects I have worked on. The list is in chronological order, starting with the most recent one. All projects were funded by the National Institute of Health (NIH) the National Science Foundation (NSF), and/or German's Federal Ministry of Education and Research (BMBF).
+Below, you can find an overview of the various research projects I have worked on. The list is in chronological order, starting with the most recent one. All projects were funded by the National Institute of Health (NIH) the National Science Foundation (NSF), and/or Germany's Federal Ministry of Education and Research (BMBF).
 
 - **CortiCom:** The primary goal of the CortiCom clinical trial is to evaluate the safety and efficacy of long-term electrode implantation for BCI control.  This entails clinical oversight and assessment of the long-term implantation of the electrodes and signal acquisition hardware, as well as the development, testing, and assessment of new BCI paradigms and control schemes to facilitate communication using the BCI. The two stated aims of CortiCom are: (1) Demonstrate efficient and stable control of essential BCI functions (e.g., initiate BCI, call caregiver, and BCI menu navigation), and (2) Demonstrate efficient and stable operation of a keyword-based speech BCI.
 
