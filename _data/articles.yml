@@ -1,0 +1,39 @@
+- title: Artificial intelligence turns brain activity into speech
+  author: Kelly Servick
+  year: 2019
+  source: Science
+  connector: in
+  image: https://www.science.org/do/10.1126/science.aaw5300/full/ca_0104NID_Brain_Surgery_Epilepsy_online-1658431974933.jpg
+  url: https://www.science.org/content/article/artificial-intelligence-turns-brain-activity-speech
+
+- title: New device translates brain activity into speech. Here's how.
+  author: Michael Greshko and Maya Wei-Haas
+  year: 2019
+  source: National Geographic
+  connector: in
+  image: https://i.natgeofe.com/n/9724e751-46b1-4337-b6ca-d86f9e915f4d/01-ecog-electrode-array-1.jpg?w=374&amp;h=281
+  url: https://www.nationalgeographic.com/science/article/new-computer-brain-interface-translates-activity-into-speech
+
+- title: The Long Search for a Computer That Speaks Your Mind
+  author: Adam Rogers
+  year: 2021
+  source: Wired
+  connector: in
+  image: https://media.wired.com/photos/6189b203de1cbf7845f548da/master/w_1920,c_limit/Science_paralysis_GettyImages-6522-000040.jpg
+  url: https://www.wired.com/story/the-long-search-for-a-computer-that-speaks-your-mind/
+
+- title: Johns Hopkins researchers use brain-computer interface to improve lives of ALS patients
+  author: Caroline Foreback
+  year: 2023
+  source: WJZ
+  connector: for
+  image: /assets/img/news_wjz.png
+  url: https://www.youtube.com/watch?v=uzkEnYHqY9A
+
+- title: Creating more independence for those living with ALS
+  author: Heather Graf
+  year: 2024
+  source: InvestigateTV
+  connector: for
+  image: /assets/img/news_investigativeTV.png
+  url: https://www.youtube.com/watch?v=TQPSrVh6pqA
