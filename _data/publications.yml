@@ -39,6 +39,7 @@ main:
     conference: Advanced Science, 2023
     page: https://onlinelibrary.wiley.com/doi/10.1002/advs.202304853
     pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202304853
+    poster: /assets/poster/luo2023stable.pdf
     image: /assets/img/luo2023stable.png
 
   - title: "Synthesizing Speech from Intracranial Depth Electrodes using an Encoder-Decoder Framework"
