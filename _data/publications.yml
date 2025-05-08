@@ -9,6 +9,7 @@ main:
     code: https://github.com/DanCandrea/click-detector-speller
     data: https://osf.io/46skb/
     image: /assets/img/candrea2024a.png
+    poster: /assets/poster/candrea2023speller.pdf
     # notes: Early Accept
 
   - title: "Real-time detection of spoken speech from unlabeled ECoG signals: A pilot study with an ALS participant"
