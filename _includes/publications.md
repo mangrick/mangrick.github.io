@@ -1,3 +1,13 @@
+<style>
+  .pub-title {
+    margin-top: auto;
+    text-decoration: none;
+    color: #043361;
+    font-weight: 500;
+  }
+</style>
+
+
 <div class="publications">
   <ol class="bibliography">
 
@@ -14,28 +24,31 @@
         {% endif %}
       </div>
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+          <div class="title pub-title"> {{ link.title }} </div>
           <div class="author">{{ link.authors }}</div>
           <div class="periodical"><em>{{ link.conference }}</em>
           </div>
         <div class="links">
           {% if link.pdf %} 
-          <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-          {% endif %}
-          {% if link.code %} 
-          <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+            <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           {% endif %}
           {% if link.page %} 
-          <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
+            <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
+          {% endif %}
+          {% if link.code %} 
+            <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+          {% endif %}
+          {% if link.data %} 
+            <a href="{{ link.data }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Data</a>
           {% endif %}
           {% if link.bibtex %} 
-          <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+            <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
           {% endif %}
           {% if link.poster %} 
-          <a href="{{ link.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+            <a href="{{ link.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
           {% endif %}
           {% if link.notes %} 
-          <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+            <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
           {% endif %}
           {% if link.others %} 
           {{ link.others }}

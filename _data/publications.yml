@@ -6,6 +6,8 @@ main:
     conference: Nature Communications Medicine, 2024.
     page: https://www.nature.com/articles/s43856-024-00635-3
     pdf: https://www.nature.com/articles/s43856-024-00635-3.pdf
+    code: https://github.com/DanCandrea/click-detector-speller
+    data: https://osf.io/46skb/
     image: /assets/img/candrea2024a.png
     # notes: Early Accept
 
@@ -26,6 +28,7 @@ main:
     page: https://www.nature.com/articles/s41598-024-60277-2
     pdf: https://www.nature.com/articles/s41598-024-60277-2.pdf
     code: https://github.com/cronelab/delayed-speech-synthesis
+    data: http://www.osf.io/49rt7/
     poster: /assets/poster/SfN_2023.pdf
     image: /assets/img/angrick2024online.png
 
@@ -44,6 +47,7 @@ main:
     page: https://nbdt.scholasticahq.com/article/57524-synthesizing-speech-from-intracranial-depth-electrodes-using-an-encoder-decoder-framework
     pdf: https://arxiv.org/pdf/2111.01457
     code: https://github.com/jonaskohler/stereoEEG2speech
+    data: https://osf.io/7wf6n/
     image: /assets/img/kohler2022synthesizing.png
 
   - title: "Towards Closed-Loop Speech Synthesis from Stereotactic EEG: A Unit Selection Approach"
@@ -78,6 +82,7 @@ main:
     page: https://www.nature.com/articles/s42003-021-02578-0
     pdf: https://www.nature.com/articles/s42003-021-02578-0.pdf
     code: https://github.com/cognitive-systems-lab/closed-loop-seeg-speech-synthesis
+    data: https://osf.io/cng9b/
     image: /assets/img/angrick2021real.png
 
   - title: "Speech Spectrogram Estimation from Intracranial Brain Activity Using a Quantization Approach"
