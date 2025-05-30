@@ -133,6 +133,7 @@ main:
     authors: Lorenz Diener, Gerrit Felsch, <strong>Miguel Angrick</strong> & Tanja Schultz
     conference_short: ITG
     conference: 13th ITG-Symposium, Speech Communication, 2018 
+    page: https://ieeexplore.ieee.org/document/8578038
     pdf: https://www.csl.uni-bremen.de/cms/images/documents/publications/ITG2018_EMG_ConvNets.pdf
     image: /assets/img/diener2018session.png
 
