@@ -1,4 +1,33 @@
 main:
+  - title: Longitudinal study of gesture decoding in a clinical trial participant with ALS
+    authors: Daniel N. Candrea, <strong>Miguel Angrick</strong>, Shiyu Luo, Rohit Ganji, Christopher Coogan, Griffin W. Milsap, Kathryn R. Rosenblatt, Alpa Uchil, Lora Clawson, Nicholas J. Maragakis, Mariska J. Vansteensel, Francesco V. Tenore, Nicholas F. Ramsey, Matthew S. Fifer & Nathan E. Crone
+    conference_short: medRxiv
+    conference: medRxiv, 2025
+    page: https://www.medrxiv.org/content/10.1101/2025.09.26.25335804v1
+    pdf: https://www.medrxiv.org/content/10.1101/2025.09.26.25335804v1.full.pdf
+    image: /assets/img/candrea2025longitudinal.png
+    notes: Preprint
+
+  - title: Self-paced silent speech brain-computer interface for device control
+    authors: Shiyu Luo, <strong>Miguel Angrick</strong>, Christopher Coogan, Daniel N. Candrea, Kimberley Wyse-Sookoo, Anouck Schippers, Rohit Ganji, Griffin W. Milsap, William S. Anderson, Chad R. Gordon, Donna C. Tippett, Nicholas J. Maragakis, Lora L. Clawson, Mariska J. Vansteensel, Francesco V. Tenore, Hynek Hermansky, Matthew S. Fifer, Nick F. Ramsey & Nathan E. Crone
+    conference_short: medRxiv
+    conference: medRxiv, 2025
+    page: https://www.medrxiv.org/content/10.1101/2025.04.09.25325542v1
+    pdf: https://www.medrxiv.org/content/10.1101/2025.04.09.25325542v1.full.pdf
+    image: /assets/img/luo2025self.png
+    notes: Preprint
+
+  - title: "Real-time detection of spoken speech from unlabeled ECoG signals: A pilot study with an ALS participant"
+    authors: <strong>Miguel Angrick</strong>, Shiyu Luo, Qinwan Rabbani, Shreya Joshi, Daniel N. Candrea, Griffin W. Milsap, Chad R. Gordon, Kathryn Rosenblatt, Lora Clawson, Nicholas Maragakis, Francesco V. Tenore, Matthew S. Fifer, Nick F. Ramsey & Nathan E. Crone
+    conference_short: JNE
+    conference: Journal of Neural Engineering, 2025
+    page: https://www.medrxiv.org/content/10.1101/2024.09.18.24313755v1
+    pdf: https://www.medrxiv.org/content/10.1101/2024.09.18.24313755v1.full.pdf
+    code: https://github.com/cronelab/corticom-neural-vad
+    data: https://osf.io/s9juc/
+    image: /assets/img/angrick2024real.png
+    poster: /assets/poster/SfN_2024.pdf
+    # notes: Preprint
 
   - title: A click-based electrocorticographic brain-computer interface enables long-term high-performance switch scan spelling
     authors: Daniel N. Candrea, Samyak Shah, Shiyu Luo, <strong>Miguel Angrick</strong>, Qinwan Rabbani, Christopher Coogan, Griffin W. Milsap, Kevin C. Nathan, Brock A. Wester, William S. Anderson, Kathryn R. Rosenblatt, Alpa Uchil, Lora Clawson, Nicholas J. Maragakis, Mariska J. Vansteensel, Francesco V. Tenore, Nicolas F. Ramsey, Matthew S. Fifer & Nathan E. Crone
@@ -10,17 +39,6 @@ main:
     data: https://osf.io/46skb/
     image: /assets/img/candrea2024a.png
     poster: /assets/poster/candrea2023speller.pdf
-    # notes: Early Accept
-
-  - title: "Real-time detection of spoken speech from unlabeled ECoG signals: A pilot study with an ALS participant"
-    authors: <strong>Miguel Angrick</strong>, Shiyu Luo, Qinwan Rabbani, Shreya Joshi, Daniel N. Candrea, Griffin W. Milsap, Chad R. Gordon, Kathryn Rosenblatt, Lora Clawson, Nicholas Maragakis, Francesco V. Tenore, Matthew S. Fifer, Nick F. Ramsey & Nathan E. Crone
-    conference_short: medRxiv
-    conference: medRxiv, 2024
-    page: https://www.medrxiv.org/content/10.1101/2024.09.18.24313755v1
-    pdf: https://www.medrxiv.org/content/10.1101/2024.09.18.24313755v1.full.pdf
-    image: /assets/img/angrick2024real.png
-    poster: /assets/poster/SfN_2024.pdf
-    notes: Preprint
 
   - title: "Online speech synthesis using a chronically implanted brain-computer interface in an individual with ALS"
     authors: <strong>Miguel Angrick</strong>, Shiyu Luo, Qinwan Rabbani, Daniel N. Candrea, Samyak Shah, Griffin W. Milsap, William S. Anderson, Chad R. Gordon, Kathryn R. Rosenblatt, Lora Clawson, Donna C. Tippett, Nicholas Maragakis, Francesco V. Tenore, Matthew S. Fifer, Hynek Hermansky, Nick F. Ramsey & Nathan E. Crone
