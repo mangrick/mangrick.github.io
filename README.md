@@ -4,7 +4,7 @@ Use
 ```bash
 bundle exec jekyll server
 ```
-to start the local server and test the website
+to start the local server and test the website on localhost.
 
 # Credits
 
