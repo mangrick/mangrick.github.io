@@ -1,4 +1,12 @@
 main:
+  - title: Initial experience with the precision neuroscience Layer 7 micro-electrocorticography interface for real-time intraoperative neural decoding
+    authors: Kurt R. Lehner, Shiyu Luo, Becca Greene, <strong>Miguel Angrick</strong>, Daniel N.  Candrea, Khalil S. Husari, Katrina Barth, Jackie Dister, Ramin Anushiravani, Joshua S. Miller, Elton Ho, Jordina Rincon-Torroella, Benjamin Rapoport, Youssef Comair & Nathan E. Crone
+    conference_short: JNS
+    conference: Journal of Neurosurgery, 2026
+    page: https://thejns.org/focus/view/journals/neurosurg-focus/60/2/article-pE3.xml
+    pdf: https://thejns.org/focus/view/journals/neurosurg-focus/60/2/article-pE3.xml?tab_body=pdf-35398
+    image: /assets/img/lehner2026initial.png
+
   - title: Longitudinal study of gesture decoding in a clinical trial participant with ALS
     authors: Daniel N. Candrea, <strong>Miguel Angrick</strong>, Shiyu Luo, Rohit Ganji, Christopher Coogan, Griffin W. Milsap, Kathryn R. Rosenblatt, Alpa Uchil, Lora Clawson, Nicholas J. Maragakis, Mariska J. Vansteensel, Francesco V. Tenore, Nicholas F. Ramsey, Matthew S. Fifer & Nathan E. Crone
     conference_short: medRxiv
